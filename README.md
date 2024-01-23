@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Ghare</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">An innovative software developer hailing from the vibrant tech landscape of India, passionate about crafting cutting-edge solutions.</h3>
 
 - 🔭 I’m currently **immersed in the art of Java-based API solutions, bringing them to life on GCP.**
 
@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aniket-ghare15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aniket-ghare15/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aniket15052000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aniket15052000/" height="30" width="40" /></a>
+<a href="https://twitter.com/aniket_ghare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket_ghare" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aniket-ghare15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-ghare15" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aniket15052000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aniket15052000/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
