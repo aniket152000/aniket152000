@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Java and Cloud Projects**
 
-- 📫 How to reach me **aniketghare24@gmail.com**
+- 📫 How to reach me **Aniketghare24@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
