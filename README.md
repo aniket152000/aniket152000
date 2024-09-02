@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently **immersed in the art of Java-based API solutions, bringing them to life on GCP.**
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **Java and Cloud Projects**
 
